@@ -1,0 +1,23 @@
+{
+  "name": "MusicTone",
+  "keywords": "Music, Tone",
+  "description": "Plays tunes without using the delay.",
+  "authors":
+  [
+    {
+      "name": "Marc Piulachs",
+      "email": "",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "export": {
+    "include": "libraries/MusicTone"
+  }
+}
